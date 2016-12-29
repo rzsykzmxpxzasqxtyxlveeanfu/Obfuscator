@@ -25,4 +25,5 @@ The collected data can be used to:
 * update your photostream with pictures with and a random text (and emoticons);
 * publish documents, spreadsheets to your online file storage and synchronization service;
 * upload sports routes to your health trackers;
+* join conversations as a chatbot;
 * etc.
