@@ -34,7 +34,7 @@ Example outputs:
 * an RSS feed containing radom, but a shomewhat coherent, titles and teasers with a link to a news item from another (real) RSS feed;
 * a random photo, video or sound, based on a search for a random word in the users language;
 * a file with GPS data: coordinates, date and time, altitude, possibly even heartrate;
-* coherent but meaningless text (by using the [Markov chain](https://en.wikipedia.org/wiki/Markov_chain));
+* coherent but meaningless text (e.g. using the [Markov chain](https://en.wikipedia.org/wiki/Markov_chain));
 * data with user-specified numer of columns and rows with supposedly correlated data, with optional column titles, a fake identifier per row and date/time columns;
 * xml style e-health data;
 * combination of random source code snipplets;
@@ -45,9 +45,9 @@ Example outputs:
 
 ## 3. Submit the data
 The collected data can be used to:
-* send e-mails to yourself with fony content;
+* send e-mails to yourself with phony content;
 * post video's to your timeline;
-* update your photostream with pictures with and a random text (and emoticons);
+* update your photostream with pictures with and a random text, hashtags and emoticons;
 * publish documents, spreadsheets to your online file storage and synchronization service;
 * upload sports routes to your health trackers;
 * join conversations as a chatbot;
