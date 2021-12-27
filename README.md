@@ -1,5 +1,5 @@
 # Obfuscator
-Protect your online privacy by obfustcating social media by the *"deliberate use of ambiguous, confusing, or misleading information to interfere with surveillance and data collection projects"* ([Obfuscation: A User’s Guide for Privacy and Protest](https://mitpress.mit.edu/books/obfuscation), Nissenbaum & Brunton, 2015).
+Protect your online privacy by obfuscating social media by the *"deliberate use of ambiguous, confusing, or misleading information to interfere with surveillance and data collection projects"* ([Obfuscation: A User’s Guide for Privacy and Protest](https://mitpress.mit.edu/books/obfuscation), Nissenbaum & Brunton, 2015).
 
 ## Goal
 In this case, the goal of obfuscation is to protect your (online) privacy. The goal of this tool is to collect real data, mix it so it has no meaning anymore. Then it can be used to (automatically) update social media, so your profile gets obfuscated with data. Eventually *big tech* and social media companies don't have a representative profile of you.
